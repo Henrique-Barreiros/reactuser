@@ -1,0 +1,34 @@
+/* Navigation.css */
+
+/* Style the navigation bar */
+.navbar {
+    background-color: #333; /* Dark background color */
+    padding: 10px 0;
+  }
+  
+  /* Style the list of navigation items */
+  .navbar-list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+  }
+  
+  /* Style each navigation item */
+  .navbar-item {
+    margin-right: 20px;
+  }
+  
+  /* Style the navigation links */
+  .navbar-link {
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+  }
+  
+  /* Change link color on hover */
+  .navbar-link:hover {
+    color: #0074d9; /* Change to the desired hover color */
+  }
+  
